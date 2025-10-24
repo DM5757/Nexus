@@ -39,4 +39,4 @@ Students often miss out on deals scattered across multiple sources (like TBC or 
 
 All user testing follows the IRB Light Guidelines — no sensitive data, full consent, and anonymous feedback only.
 
-📄 See → [IRB Checklist](irb-checklist.md) for full details.
+📄 See → [IRB Checklist](docs/irb-checklist.md) for full details.
