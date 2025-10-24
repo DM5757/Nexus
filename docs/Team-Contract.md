@@ -203,4 +203,4 @@ By signing below, we agree to uphold this contract and work together professiona
 |--------------|-----------|------|
 | Gvantsa Nozadze | ___________________________ | _______________ |
 | Tamar Vatcharadze | ___________________________ | _______________ |
-| Davit Machitidze | ___________________________ | _______________ |
+| Davit Machitidze | Davit Machitidze | 2025-10-24 |
